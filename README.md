@@ -15,11 +15,16 @@ offering developers a variety of options for implementing toggle functionality i
 Follow these steps to explore and use the switch components in your local development environment.
 1. Clone the repository:
 >>>>> git clone https://github.com/Sethmaurice/FlutterSwitchButtons.git
-cd YOUR_REPO_NAME
+>>>>> cd YOUR_REPO_NAME
+
 Open the project in your preferred Flutter development environment (e.g., VS Code or Android Studio).
+
 >>>> flutter run
+
 Explore the code in the lib/ directory and customize the switch buttons to fit your application's needs.
+
 🤝 ContributingWe welcome contributions, suggestions, and improvements!
+
 Fork the repository.
 Create your feature branch (git checkout -b feature/AmazingFeature).
 Commit your changes (git commit -m 'Add some AmazingFeature').
