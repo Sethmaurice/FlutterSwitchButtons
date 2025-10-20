@@ -1,14 +1,17 @@
 ** Flutter Switch Buttons Showcase**
+
 This Flutter project demonstrates four distinct types of customizable switch buttons, 
 offering developers a variety of options for implementing toggle functionality in their applications.
 
 ** Features**
+
 **Custom Switch** A highly customizable switch that lets you modify its appearance and behavior to match your application's design system.
 **Light/Dark Switch** A visually appealing switch with a smooth, sliding transition, often used for theme toggling.
 **Day/Night Switch** An animated switch featuring a delightful and creative transition effect between states.
 **Minimal Switch** A simple and straightforward switch button for a clean, basic on/off state implementation.
 
 🚀 **Getting Started**
+
 Follow these steps to explore and use the switch components in your local development environment.
 1. Clone the repository:
 >>>>> git clone https://github.com/Sethmaurice/FlutterSwitchButtons.git
